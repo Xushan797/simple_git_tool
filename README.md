@@ -42,7 +42,7 @@ python3 git_func.py
 I run the code via my local environment:
 
 ```sh
-/Users/loaner/Desktop/leetcode/venv/bin/python /Users/loaner/Desktop/leetcode/test/hello-world/git_func.py
+loaner@xusuandeMacBook-Pro hello-world % python3 git_func.py 
 Enter the path of your file: /Users/loaner/Desktop/leetcode/test/hello-world/
 active branch: main
 local changes: True
