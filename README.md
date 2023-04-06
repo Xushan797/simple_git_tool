@@ -1,4 +1,4 @@
-Pronto.ai take home coding
+
 
 
 > A simple tool that prints specific facts about a local git repository.
